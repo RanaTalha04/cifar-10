@@ -20,6 +20,7 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+data/
 
 # --- Virtual Environments & Package Managers ---
 .env
